@@ -14,7 +14,7 @@
 
 ## Langkah langkah Praktikum
 * Persiapan membuat dokumen HTML dengan nama file lab6_css_framework seperti berikut.
-
+``` python
 <!DOCTYPE html>
 <html lang="en">
 <head>
