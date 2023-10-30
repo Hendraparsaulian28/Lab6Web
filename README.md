@@ -29,7 +29,7 @@
         </div>
 </body>
 </html>
-
+```
 ## Kemudian tambahkan kode CSS untuk membuat layoutnya.
 ```python
 /* import google font */
